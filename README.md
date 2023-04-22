@@ -40,7 +40,7 @@ gdown.download(enlace_descarga, d1, quiet=False)
 
 
 
-###Lee el archivo y lo almacena en un DataFrame
+### Lee el archivo y lo almacena en un DataFrame
 d = pd.read_csv("dataset.csv") 
 
 # Video entrega 1
