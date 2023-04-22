@@ -4,9 +4,6 @@
 
 -Juan Camilo Castañeda Ospina CC 1036966151 Ingeniería Civil
 
--Daniela Gómez Correa CC 1020452607 Ingeniería Ambiental
-
-
 ## Obtención de datos
 
 Los datos del proyecto vienen de la competición de Kaggle Microsoft Malware Prediction (https://www.kaggle.com/competitions/microsoft-malware-prediction/data) y se pueden obtener si se ejecuta el siguiente código:
@@ -45,3 +42,6 @@ gdown.download(enlace_descarga, d1, quiet=False)
 
 ###Lee el archivo y lo almacena en un DataFrame
 d = pd.read_csv("dataset.csv") 
+
+# Video entrega 1
+https://youtu.be/gr1bFmMOrwg
