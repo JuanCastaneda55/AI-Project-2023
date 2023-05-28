@@ -42,3 +42,7 @@ Los datos del proyecto vienen de la competición de Kaggle Microsoft Malware Pre
 
 https://youtu.be/gr1bFmMOrwg
 
+- Entrega 2 : 
+
+[https://youtu.be/gr1bFmMOrwg](https://youtu.be/h2pBhbE_nmg)
+
