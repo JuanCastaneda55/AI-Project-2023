@@ -44,5 +44,5 @@ https://youtu.be/gr1bFmMOrwg
 
 - Entrega 2 : 
 
-[https://youtu.be/gr1bFmMOrwg](https://youtu.be/h2pBhbE_nmg)
+https://youtu.be/h2pBhbE_nmg
 
